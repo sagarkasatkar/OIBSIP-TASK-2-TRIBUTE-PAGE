@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute to Dr. A.P.J. Abdul Kalam</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Tribute to Dr. A.P.J. Abdul Kalam</h1>
+    </header>
+    <main>
+      <img src="apj_abdul_kalam.jpg" alt="Dr. A.P.J. Abdul Kalam">
+      <p>
+        Avul Pakir Jainulabdeen Abdul Kalam was an Indian scientist and politician who served as the 11th President of India from 2002 to 2007. He was born on October 15, 1931, in Rameswaram, Tamil Nadu, and passed away on July 27, 2015.
+      </p>
+      <p>
+        Dr. Kalam was known as the "Missile Man of India" for his pivotal role in the development of India's missile technology. He played a significant role in India's Pokhran-II nuclear tests and was a prominent figure in the country's space research program.
+      </p>
+      <p>
+        Apart from his scientific achievements, Dr. Kalam was admired for his humble and inspiring personality. He was a great teacher and always encouraged the youth of the nation to dream big and work hard to achieve their goals.
+      </p>
+      <p>
+        Throughout his life, Dr. A.P.J. Abdul Kalam received numerous awards, including the Bharat Ratna, India's highest civilian award, for his exceptional contributions to the nation.
+      </p>
+      <blockquote>
+        "Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action."
+        <cite>- Dr. A.P.J. Abdul Kalam</cite>
+      </blockquote>
+    </main>
+    <footer>
+      <p>Created with love by Your Name</p>
+    </footer>
+  </div>
+</body>
+</html>
